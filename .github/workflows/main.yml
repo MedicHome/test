@@ -1,1 +1,1 @@
-pnpm deploy
+pnpm build && pnpm deploy
